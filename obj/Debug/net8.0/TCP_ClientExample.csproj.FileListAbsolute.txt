@@ -1,0 +1,14 @@
+/home/mert/TCP_ClientExample/obj/Debug/net8.0/TCP_ClientExample.GeneratedMSBuildEditorConfig.editorconfig
+/home/mert/TCP_ClientExample/obj/Debug/net8.0/TCP_ClientExample.AssemblyInfoInputs.cache
+/home/mert/TCP_ClientExample/obj/Debug/net8.0/TCP_ClientExample.AssemblyInfo.cs
+/home/mert/TCP_ClientExample/obj/Debug/net8.0/TCP_ClientExample.csproj.CoreCompileInputs.cache
+/home/mert/TCP_ClientExample/bin/Debug/net8.0/TCP_ClientExample
+/home/mert/TCP_ClientExample/bin/Debug/net8.0/TCP_ClientExample.deps.json
+/home/mert/TCP_ClientExample/bin/Debug/net8.0/TCP_ClientExample.runtimeconfig.json
+/home/mert/TCP_ClientExample/bin/Debug/net8.0/TCP_ClientExample.dll
+/home/mert/TCP_ClientExample/bin/Debug/net8.0/TCP_ClientExample.pdb
+/home/mert/TCP_ClientExample/obj/Debug/net8.0/TCP_ClientExample.dll
+/home/mert/TCP_ClientExample/obj/Debug/net8.0/refint/TCP_ClientExample.dll
+/home/mert/TCP_ClientExample/obj/Debug/net8.0/TCP_ClientExample.pdb
+/home/mert/TCP_ClientExample/obj/Debug/net8.0/TCP_ClientExample.genruntimeconfig.cache
+/home/mert/TCP_ClientExample/obj/Debug/net8.0/ref/TCP_ClientExample.dll
